@@ -1,0 +1,8 @@
+184  sudo apt install git vim
+  185  git clone https://github.com/BielCoutinho/senac-tat
+  186  git config --global user.name "Gabriel Coutinho"
+  187  git config --global user.email "gabriel.santos.coutinho2004@gmail.com"
+  188  git config --global core.editor vim
+  189  git config --global merge.tool vimdiff
+  190  git config --global color.ui true 
+  191  git config --list
